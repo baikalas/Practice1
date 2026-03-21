@@ -1,9 +1,2 @@
-mos
-pos
-kos
-sos
-los
-lol 
-ros 
-qoo
-zlo
+Hello, this text was written by Python.
+File handling is not that scary.
