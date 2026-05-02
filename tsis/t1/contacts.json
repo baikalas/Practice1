@@ -1,0 +1,22 @@
+[
+    {
+        "first_name": "Ulas",
+        "second_name": "Sapan",
+        "email": "ulas@gmail.com",
+        "group": "Work",
+        "phones": [
+            ["87001234567", "mobile"],
+            ["87009998877", "home"]
+        ]
+    },
+    {
+        "first_name": "Dana",
+        "second_name": "Toktarova",
+        "email": "dana.t@gmail.com",
+        "group": "Family",
+        "phones": [
+            ["87009990011", "mobile"],
+            ["87008887766", "work"]
+        ]
+    }
+]

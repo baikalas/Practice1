@@ -19,7 +19,7 @@ RED = (200, 0, 0)
 BLACK = (0, 0, 0)
 
 # Screen
-screen = pygame.display.set_mode((WIDTH, HEIGHT))
+ц = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Snake")
 
 clock = pygame.time.Clock()
